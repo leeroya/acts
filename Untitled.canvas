@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"af5803c293743878","type":"file","file":"Untitled.md","x":-200,"y":-200,"width":400,"height":400,"color":"3"},
+		{"id":"7aed078fc748d5ff","type":"text","text":"fee","x":75,"y":-360,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f7508065fe4b73c1","fromNode":"7aed078fc748d5ff","fromSide":"bottom","toNode":"af5803c293743878","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+Wife of [[Quentin “Q” Bekker]], she is a stay-at-home mom. Having home-schooled the children he has had to deal with country laws and regulations and what it can entail, coupled with the growing un ease of sending the kids into the wild world, this world of uncertainty.

@@ -1,0 +1,4 @@
+A middle-aged, medium build man with a family of two children and a wife. Growing up with being exposed to Christian ideals, he knows of the bible and of what is in the bible, however, there is a missing aspect or realisation in his life that comes over time. 
+His profession of programming and being an example of the typical working-class white male in the South African landscape he is faced with real everyday issues and concerns and ongoing struggles of just being alive.
+
+In some restless nights, Quentin will have visions or dreams of [[Acts]], different verses and chapters like [[Acts 1 - 1 to 5]], in this dream he has one about the [[The ascension]].

@@ -1,0 +1,1 @@
+This is a collection of books and chapters in the bible, the idea is that the comic walks through the chapters like [[Acts 1 - 1 to 5]] and plays an example of life and has the characters like [[Quentin “Q” Bekker]] and [[Leatitia Bekker]] have dreams and visions that dramatise the bible in a way that makes it interesting.
